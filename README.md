@@ -20,7 +20,46 @@ The findings can be used to:
 * Support data-driven lending decisions
 
 ---
+## Key Visualizations
 
+### 1. Default Rate by Income Type
+
+![Default Rate by Income Type](images/income_type_default_rate.png)
+
+**Insight:** Applicants on maternity leave and unemployed applicants exhibit the highest probability of default.
+
+---
+
+### 2. Default Rate by Education Level
+
+![Default Rate by Education](images/education_default_rate.png)
+
+**Insight:** Applicants with lower secondary education show significantly higher default rates compared to applicants with higher education.
+
+---
+
+### 3. Default Rate by Previous Application Status
+
+![Previous Application Status](images/previous_application_status.png)
+
+**Insight:** Applicants whose previous applications were refused or cancelled have a higher risk of default.
+
+---
+### 4. Default Rate by Family Status
+
+![Family Status Default Rate](images/family_status_default_rate.png)
+
+**Insight:** Single and civil-marriage applicants display higher default rates than widowed applicants.
+
+---
+
+### 5. Default Rate by Gender
+
+![Gender Default Rate](images/gender_default_rate.png)
+
+**Insight:** Male applicants have a higher default rate than female applicants.
+
+---
 ## Tools & Technologies
 
 * Python
